@@ -1,0 +1,12 @@
+[package]
+name = "new_actix_web_example"
+version = "0.1.0"
+authors = ["Yuki Toyoda <toyoda_yuki@cyberagent.co.jp>"]
+edition = "2018"
+
+[dependencies]
+actix-rt = "0.2"
+actix-web = "1.0.0-rc"
+
+futures = "0.1.25"
+env_logger = "0.5"
